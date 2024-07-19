@@ -1,0 +1,9 @@
+.error-empty-text {
+    background-color: #ff4d4a !important;
+    transition: 0.4s !important;
+}
+
+input {
+    background-color: white !important;
+    transition: 0.3s !important;
+}
